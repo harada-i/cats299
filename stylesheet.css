@@ -1,13 +1,24 @@
 * {
-  background-color: gray;
   font-family: "Meiryo UI"
 }
 
-title {
-  color: black;
+.header {
+  background-color: white;
+  height: 50px;
+  width: auto;
+  float: left;
+  padding: 15px;
+  font-size: 30px;
 }
 
-header {
-  color: black;
-  font-size:32px;
+.header-list {
+  list-style: none;
+  float: left;
+}
+
+
+.main {
+  background-color:　#FFFF99;
+  height: 300px;
+  width: auto;
 }
